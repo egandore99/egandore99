@@ -19,3 +19,10 @@ Skills: WP / CSS / HTML.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=egandore99&show_icons=true)  
 
+#
+
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+   I started my coding journey in 2022.
+
+
