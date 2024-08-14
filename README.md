@@ -1,6 +1,6 @@
 <!-- Introduction -->
 
-### 👨‍💻 Eduard Gandore
+# 👨‍💻 Eduard Gandore
 
 **`WordPress Developer @ Gandoredev`**
 
@@ -31,7 +31,7 @@ I'm an indie WordPress developer specializing in eCommerce stores, building cust
 
 ### 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=egandore99&show_icons=true)  
+![Eduard's GitHub stats](https://github-readme-stats.vercel.app/api?username=egandore99&show_icons=true)  
 
 <!-- Story -->
 
