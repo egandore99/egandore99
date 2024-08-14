@@ -6,6 +6,8 @@
 
 I'm an indie WordPress developer specializing in eCommerce stores, building customized digital experiences from the ground up. From planning and designing to solving real-world business challenges, I create tailored WordPress solutions that help businesses thrive online. This year, I decided to dive deeper into coding, with a focus on expanding my web development skills through PHP, SQL, and JavaScript. As I continue to grow, I aim to refine my craft and push the boundaries of what’s possible in the world of eCommerce development.
 
+---
+
 <!-- Languages -->
 
 ### 🧰 Languages and Tools
