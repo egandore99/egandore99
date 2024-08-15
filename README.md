@@ -1,6 +1,6 @@
 <!-- Introduction -->
 
-# 👨‍💻 Eduard Gandore
+# 👨‍💻 Eduard G.
 
 **`WordPress Developer @ Gandoredev`**
 
