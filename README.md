@@ -24,7 +24,7 @@ I'm an indie WordPress developer specializing in eCommerce stores, building cust
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egandore99)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #
 
