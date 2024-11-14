@@ -36,6 +36,9 @@ I'm an indie WordPress developer specializing in eCommerce stores, building cust
 
 <!-- Story -->
 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=egandore99)](https://github.com/anuraghazra/github-readme-stats)
+
 #
 
 <details>
