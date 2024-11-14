@@ -25,6 +25,7 @@ I'm an indie WordPress developer specializing in eCommerce stores, building cust
 <br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egandore99&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egandore99&layout=pie&theme=tokyonight)
 
 #
 
@@ -35,9 +36,6 @@ I'm an indie WordPress developer specializing in eCommerce stores, building cust
 ![Eduard's GitHub stats](https://github-readme-stats.vercel.app/api?username=egandore99&theme=tokyonight&show_icons=true)  
 
 <!-- Story -->
-
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=egandore99)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
